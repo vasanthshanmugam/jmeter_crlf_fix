@@ -1,0 +1,12 @@
+'bin/create-rmi-keystore.sh' -text
+'bin/heapdump.sh' -text
+'bin/jmeter' -text
+'bin/jmeter-server' -text
+'bin/jmeter.sh' -text
+'bin/mirror-server' -text
+'bin/mirror-server.sh' -text
+'bin/shutdown.sh' -text
+'bin/stoptest.sh' -text
+'bin/threaddump.sh' -text
+'extras/proxycert.sh' -text
+'extras/schematic.sh' -text
